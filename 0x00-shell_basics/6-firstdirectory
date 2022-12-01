@@ -1,3 +1,4 @@
 #!/bin/bash
-mkdir /tmp/my_first_directory
+ls -l -a
+mkdir /tmp/my_firstdirectory
 
